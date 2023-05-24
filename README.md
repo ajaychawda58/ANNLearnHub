@@ -18,7 +18,7 @@ Important links to learn Machine Learning and Artificial Inteliigence.
 1. UpTrain - https://github.com/uptrain-ai/uptrain
 
 ## Hyperparameter Optimization
-1. Optuniy - https://github.com/claesenm/optunity
+1. Optunity - https://github.com/claesenm/optunity
 
 ## Course
 1. ML - https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
