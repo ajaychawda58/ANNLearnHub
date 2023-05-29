@@ -26,3 +26,6 @@ Important links to learn Machine Learning and Artificial Inteliigence.
 ## Large Language Models
 1. Large Language Models Humanize Technology - https://arxiv.org/pdf/2305.05576.pdf
 2. LLM Numbers - https://github.com/ray-project/llm-numbers
+
+## Talks
+1. https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2
