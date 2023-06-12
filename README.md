@@ -29,3 +29,6 @@ Important links to learn Machine Learning and Artificial Inteliigence.
 
 ## Talks
 1. https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2
+
+## Books
+1. https://ebookfoundation.github.io/free-programming-books/
