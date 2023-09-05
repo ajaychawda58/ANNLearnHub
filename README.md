@@ -32,6 +32,7 @@ Important links to learn Machine Learning and Artificial Inteliigence.
 
 ## Books
 1. https://ebookfoundation.github.io/free-programming-books/
+2. https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6009dd9fa7bc363aa822d2c7/1611259312432/ISLR+Seventh+Printing.pdf
 
 ## Preprocessing NLP
 1. https://towardsdatascience.com/what-on-earth-is-unicode-normalization-56c005c55ad0
