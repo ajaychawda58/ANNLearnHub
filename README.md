@@ -13,6 +13,7 @@ Important links to learn Machine Learning and Artificial Inteliigence.
 ## Explainable Models
 1. CleanLab - https://github.com/cleanlab/cleanlab
 2. Shapash - https://github.com/MAIF/shapash
+3. Alibi - https://github.com/SeldonIO/alibi
 
 ## ML Training
 1. UpTrain - https://github.com/uptrain-ai/uptrain
